@@ -226,7 +226,7 @@ language-help: |
   ×  /setlang | /lang | /language : set your prefered language.\n
   **Note**
   You can use this command on group chats to change the language setting on that chat.\n
-  Help us to cover more languages to the bot by contributing in [Crowdin!](https://crowdin.com/project/anjani-bot)
+  Help us to cover more languages to the bot by contributing in [Elena!](https://t.me/Miss_Elena_Robot)
 current-language: "**{}** current language is **{}**\nSelect language bellow to change"
 language-code-error: An error has occured (No language code)... please contact support
 language-set-succes: Language set to {} successfully
